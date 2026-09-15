@@ -1,7 +1,5 @@
 [![Actions Status](https://github.com/onlydisco/hexlet-gendiff/workflows/hexlet-check/badge.svg)](https://github.com/onlydisco/hexlet-gendiff/actions)
 [![validate](https://github.com/onlydisco/hexlet-gendiff/actions/workflows/validate.yml/badge.svg)](https://github.com/onlydisco/hexlet-gendiff/actions/workflows/validate.yml)
-[![Maintainability](https://api.codeclimate.com/v1/badges/36be9d23cbbeade1906f/maintainability)](https://codeclimate.com/github/onlydisco/hexlet-gendiff/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/36be9d23cbbeade1906f/test_coverage)](https://codeclimate.com/github/onlydisco/hexlet-gendiff/test_coverage)
 
 # GenDiff
 
