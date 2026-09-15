@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/onlydisco/frontend-project-46.git"
+    "url": "git+https://github.com/onlydisco/hexlet-gendiff.git"
   },
   "author": "Mukhin Sergey",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/onlydisco/frontend-project-46/issues"
+    "url": "https://github.com/onlydisco/hexlet-gendiff/issues"
   },
-  "homepage": "https://github.com/onlydisco/frontend-project-46#readme",
+  "homepage": "https://github.com/onlydisco/hexlet-gendiff#readme",
   "dependencies": {
     "commander": "^9.4.1",
     "js-yaml": "^4.1.0",

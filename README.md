@@ -1,13 +1,12 @@
-[![Actions Status](https://github.com/onlydisco/frontend-project-46/workflows/hexlet-check/badge.svg)](https://github.com/onlydisco/frontend-project-46/actions)
-[![validate](https://github.com/onlydisco/frontend-project-46/actions/workflows/validate.yml/badge.svg)](https://github.com/onlydisco/frontend-project-46/actions/workflows/validate.yml)
-[![Maintainability](https://api.codeclimate.com/v1/badges/36be9d23cbbeade1906f/maintainability)](https://codeclimate.com/github/onlydisco/frontend-project-46/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/36be9d23cbbeade1906f/test_coverage)](https://codeclimate.com/github/onlydisco/frontend-project-46/test_coverage)
+[![Actions Status](https://github.com/onlydisco/hexlet-gendiff/workflows/hexlet-check/badge.svg)](https://github.com/onlydisco/hexlet-gendiff/actions)
+[![validate](https://github.com/onlydisco/hexlet-gendiff/actions/workflows/validate.yml/badge.svg)](https://github.com/onlydisco/hexlet-gendiff/actions/workflows/validate.yml)
+[![Maintainability](https://api.codeclimate.com/v1/badges/36be9d23cbbeade1906f/maintainability)](https://codeclimate.com/github/onlydisco/hexlet-gendiff/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/36be9d23cbbeade1906f/test_coverage)](https://codeclimate.com/github/onlydisco/hexlet-gendiff/test_coverage)
 
 # GenDiff
 
-### Descrition:
-A CLI application. Compares two configuration files and shows a difference in three different output fomats: stylish, plain and json.
- 
+### Description:
+A CLI application. Compares two configuration files and shows a difference in three different output formats: stylish, plain and json. Supports flat and nested structures, accepts JSON and YAML files.
 
 ### Installation:
 
